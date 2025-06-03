@@ -1,0 +1,33 @@
+name: BookBin
+description: "3rd year project"
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.2.0
+  firebase_auth: ^5.1.2
+  cloud_firestore: ^5.1.0
+  email_auth: ^2.0.0
+  email_otp: ^3.0.2
+  rxdart: ^0.28.0
+  get: ^4.6.6
+  carousel_slider: ^4.0.0
+  flutter_screenutil: ^5.9.0
+  smooth_page_indicator: ^1.1.0
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/

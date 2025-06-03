@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061375892592",
+    "project_id": "bookbin-24043",
+    "storage_bucket": "bookbin-24043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061375892592:android:87ef8c0b98e7a95261a8b5",
+        "android_client_info": {
+          "package_name": "com.example.bookbin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCQX6IuGCNTXxutJ5WqKU1vDeF9DcEZq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
